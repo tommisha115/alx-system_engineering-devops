@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((128 + TRUEKNOWLWDGE))
+echo $((TRUEKNOWLWDGWE +=128))
